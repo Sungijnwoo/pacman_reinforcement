@@ -1,3 +1,8 @@
+<img src='imgs/pacman.gif' align="right">
+
+<br><br><br><br>
+
+
 # AI 인공지능
 See Midterm and Final Project:
 https://sites.google.com/hanyang.ac.kr/2021ai
